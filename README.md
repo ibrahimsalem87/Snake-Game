@@ -27,5 +27,23 @@ This is a snake game where the user enters his name and select the speed mode. S
 4. Run it: `./SnakeGame`.
 
 
+## Rubric Criteria
+
+1. The project demonstrates an understanding of C++ functions and control structures.
+    - Snake Class line 8-14 
+    - Game Class line 15-18, line 82-98
+
+2. The project reads data from a file and process the data, or the program writes data to a file.
+    - Main class line 38
+
+3. The project accepts user input and processes the input.
+    - Main class line 19-24, line 30
+
+4. The project uses Object Oriented Programming techniques.
+    - Game consists of four classes
+
+5. Classes use appropriate access specifiers for class members.
+    - Criteria satisfied in header files
+
 
 
